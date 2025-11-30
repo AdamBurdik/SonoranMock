@@ -1,0 +1,9 @@
+[project]
+name = "sonoran-mock"
+version = "0.1.0"
+description = "Application for simulating sonoran cad server."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.2",
+]
