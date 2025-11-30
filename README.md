@@ -4,6 +4,7 @@ Application for simulating sonoran cad server.
 
 ## Disclaimer
 This is only API implementation. No frontend
+
 Only the following endpoints are implemented:
 - /general/get_version
 - /general/get_account
